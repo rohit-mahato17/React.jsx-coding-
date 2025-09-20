@@ -1,6 +1,6 @@
 
 #Reactjs
-
+---
     Components – Functional aur Class Components kaise bante hain.
 
     Props & State – Data ko ek jagah se dusri jagah pass karna aur state manage karna.
@@ -20,3 +20,5 @@
     State Management – Context API aur Redux basics.
 
     Optimization – useMemo, useCallback, lazy loading, code splitting.
+
+---
