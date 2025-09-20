@@ -1,7 +1,5 @@
 
-🟢 Example Answer in Simple Hindi-English:
-
-👉 "ReactJS me maine basic concepts aur advanced cheezein dono seekhi hain. Jaise ki:
+#Reactjs
 
     Components – Functional aur Class Components kaise bante hain.
 
