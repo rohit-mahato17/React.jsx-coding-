@@ -19,6 +19,6 @@
 
     State Management – Context API aur Redux basics.
 
-    O
+    ptimization – useMemo, useCallback, lazy loading, code splitting.
 
 ---
