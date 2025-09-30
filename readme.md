@@ -2,7 +2,6 @@
 #Reactjs
 ---
     Components – Functional aur Class Components kaise bante hain.
-    Components – Functional aur Class Components kaise bante hain.
 
     Props & State – Data ko ek jagah se dusri jagah pass karna aur state manage karna.
 
@@ -19,9 +18,6 @@
     Styling – CSS Modules, TailwindCSS, Styled Components use karna.
 
     State Management – Context API aur Redux basics.
-    ptimization – useMemo, useCallback, lazy loading, code splitting.
 
     ptimization – useMemo, useCallback, lazy loading, code splitting.
-    ptimization – useMemo, useCallback, lazy loading, code splitting.
-
 ---
