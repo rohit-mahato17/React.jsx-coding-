@@ -2,6 +2,7 @@
 #Reactjs
 ---
     Components – Functional aur Class Components kaise bante hain.
+    Components – Functional aur Class Components kaise bante hain.
 
     Props & State – Data ko ek jagah se dusri jagah pass karna aur state manage karna.
 
